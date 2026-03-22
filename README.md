@@ -1,4 +1,4 @@
-# use-dark-mode-hook
+## use-dark-mode-hook
 
 ![Small!](https://img.shields.io/bundlephobia/min/use-dark-mode-hook)
 
